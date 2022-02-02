@@ -4,3 +4,10 @@ This command pulls new changes from the currently working branch located in the 
 current
 2. For changes to be reflected in the current / target branch, git fetch should be followed by git merge command.
 welcome
+
+
+Can you tell the difference between Git and GitHub?
+Git	GitHub
+This is a distributed version control system installed on local machines which allow developers to keep track of commit histories and supports collaborative work.	This is a cloud-based source code repository developed by using git.
+This is maintained by “The Linux Foundation”.	This was acquired by “Microsoft”
+SVN, Mercurial, etc are the competitors	GitLab, Atlassian BitBucket, etc are the competitors.
