@@ -1,7 +1,7 @@
 
 This is another commit from local
 
-thsi is another commit 
+this is another commit 
 
 o ;;;;;;;;;;;;;;;;;;ws:W
 :WQ
